@@ -1,4 +1,4 @@
-const axios = require('axios');
+hiconst axios = require('axios');
 const yts = require('yt-search');
 
 module.exports = {
@@ -91,7 +91,7 @@ module.exports = {
                 video: { url: videoLink },
                 mimetype: 'video/mp4',
                 fileName: `${title}.mp4`,
-                caption: `🎥 ${title}\n👑 Queen Aria`
+                caption: `🎥 ${title}\n𝗕𝗠𝗪 𝗅𝗂𝗍𝖾`
             }, { quoted: m });
 
             // Done reaction
