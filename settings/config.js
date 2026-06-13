@@ -8,7 +8,7 @@ const config = {
     owner: "-",
     botNumber: "-",
     setPair: "K0MRAID1",
-    thumbUrl: "https://i.imgur.com/IkEv97P.jpeg",
+    thumbUrl: "https://files.catbox.moe/7d9q28.jpg",
     session: "sessions",
     status: {
         public: true,
