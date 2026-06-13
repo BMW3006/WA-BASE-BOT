@@ -118,7 +118,7 @@ module.exports = {
                         body: "Click for more downloads!",
                         mediaType: 2,
                         thumbnailUrl: thumbnail,
-                        sourceUrl: "https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E"
+                        sourceUrl: "https://whatsapp.com/channel/0029VbCjkJP2P59fBeYUuN1H"
                     }
                 }
             }, { quoted: m });
