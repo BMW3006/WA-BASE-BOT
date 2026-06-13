@@ -1,7 +1,7 @@
 {
-    "name": "WA-BASE-BOT",
+    "name": "𝗕𝗠𝗪 𝗅𝗂𝗍𝖾",
     "version": "1.2",
-    "description": "A Simple Whatsapp Bot",
+    "description": "Whatsapp Bot 𝗕𝗠𝗪 𝗅𝗂𝗍𝖾",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
