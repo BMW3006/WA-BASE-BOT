@@ -68,7 +68,7 @@ module.exports = {
 💬 **DESCRIPTION**: ${config.settings.description}
 
 🔗 **OFFICIAL CHANNEL**:
-https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E
+https://whatsapp.com/channel/0029VbCjkJP2P59fBeYUuN1H
 
 ${config.settings.footer}`;
 
