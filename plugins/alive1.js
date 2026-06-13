@@ -63,7 +63,7 @@ module.exports = {
 *"Magic flows through every command I cast"*
 
 🪄 *Channel Your Magic:*
-https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E
+https://whatsapp.com/channel/0029VbCjkJP2P59fBeYUuN1H
 
 ${config.settings.footer}`;
 
