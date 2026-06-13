@@ -92,7 +92,7 @@ module.exports = {
             // Send preview
             await sock.sendMessage(m.chat, {
                 image: { url: thumbnail },
-                caption: `🎬 *${title}*\n\n⬇️ Downloading video...\n🎥 Quality: 360p\n\n> Powered by Queen Aria`
+                caption: `🎬 *${title}*\n\n⬇️ Downloading video...\n🎥 Quality: 360p\n\n> Powered by 𝗕𝗠𝗪 𝗅𝗂𝗍𝖾`
             }, { quoted: m });
 
             // Send video
@@ -100,7 +100,7 @@ module.exports = {
                 video: { url: videoDownloadUrl },
                 mimetype: 'video/mp4',
                 fileName: filename,
-                caption: `🎬 *${title}*\n\n✅ Download Complete!\n🎥 Quality: 360p\n\n> 👑 Queen Aria Video Downloader`
+                caption: `🎬 *${title}*\n\n✅ Download Complete!\n🎥 Quality: 360p\n\n> 𝗕𝗠𝗪 𝗅𝗂𝗍𝖾Video Downloader`
             }, { quoted: m });
 
             // Success reaction
