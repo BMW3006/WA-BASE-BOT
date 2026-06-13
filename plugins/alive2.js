@@ -69,7 +69,7 @@ module.exports = {
 📜 Developed by: ${config.settings.author}
 
 🎭 *Join the Royal Court:*
-https://whatsapp.com/channel/0029Va8YUl50bIdtVMYnYd0E`;
+https://whatsapp.com/channel/0029VbCjkJP2P59fBeYUuN1H`;
 
             await sock.sendMessage(m.chat, {
                 image: { url: config.thumbUrl },
