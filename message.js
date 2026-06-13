@@ -329,7 +329,7 @@ module.exports = sock = async (sock, m, chatUpdate, store) => {
                 const totalCommands = pluginLoader.getPluginCount();
 
                 const K0MRAID = `
-╔〘 *WA-BASE-BOT* 
+╔〘 *𝗕𝗠𝗪 𝗅𝗂𝗍𝖾* 
 ║ 👑 *Owner:* Debraj 
 ║ 🧩 *Prefix:* [ . ]
 ║ 🖥️ *Host:* ${host}
